@@ -3,5 +3,3 @@ This repository corresponds to a [blog post](https://morgenm.github.io/blog/2023
 
 This code requires various datasets to run. The datasets I used were placed in `../datasets/`. The list of datasets I used is listed on my blog post. 
 
-## Spam wordlist
-The spam wordlist was created based on two sites: [here](https://www.activecampaign.com/blog/spam-words) and [here](https://blog.hubspot.com/blog/tabid/6307/bid/30684/The-Ultimate-List-of-Email-SPAM-Trigger-Words.aspx)
